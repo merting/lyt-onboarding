@@ -86,7 +86,7 @@ Dependabot opens weekly dependency update PRs. See [docs/DEPENDENCY_MANAGEMENT.m
 
 | Item | Value |
 |------|-------|
-| Preview URL | *Pending first Vercel import — update after Path A setup in DEPLOYMENT.md* |
+| Preview URL | https://default-three-pi.vercel.app |
 | Health check | `curl https://<preview-url>/api/health` |
 | Post-deploy verify | `node scripts/verify-preview.mjs https://<preview-url>` |
 
